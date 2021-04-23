@@ -8,6 +8,7 @@ function About(props) {
   return (
     <div style={{ marginTop: 5 }}>
       <img
+        alt="about hero"
         src={hero}
         style={{
           display: "block",
