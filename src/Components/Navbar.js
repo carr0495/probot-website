@@ -4,7 +4,6 @@ import AppBar from "@material-ui/core/AppBar";
 import Toolbar from "@material-ui/core/Toolbar";
 import Button from "@material-ui/core/Button";
 import IconButton from "@material-ui/core/IconButton";
-import Typography from "@material-ui/core/Typography";
 import TemporaryDrawer from "./TemporaryDrawer";
 import logo from "../static/probot/ProbotFullLogo.png";
 import { Link as RouterLink } from "react-router-dom";

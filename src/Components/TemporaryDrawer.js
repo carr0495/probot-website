@@ -10,10 +10,8 @@ import ListItemIcon from "@material-ui/core/ListItemIcon";
 import ListItemText from "@material-ui/core/ListItemText";
 import Home from "@material-ui/icons/Home";
 import InfoIcon from "@material-ui/icons/Info";
-import MailIcon from "@material-ui/icons/Mail";
 import ContactMailIcon from "@material-ui/icons/ContactMail";
 import MenuIcon from "@material-ui/icons/Menu";
-import AccountTreeTwoToneIcon from "@material-ui/icons/AccountTreeTwoTone";
 import { Link as RouterLink } from "react-router-dom";
 
 const useStyles = makeStyles({

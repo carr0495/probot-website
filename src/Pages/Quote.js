@@ -3,7 +3,6 @@ import QuoteGrid from "../Components/QuoteGrid";
 import hero from "../static/images/contacthero.png";
 import Button from "@material-ui/core/Button";
 import { makeStyles } from "@material-ui/core/styles";
-import { Link as RouterLink } from "react-router-dom";
 
 const useStyles = makeStyles((theme) => ({
   root: {

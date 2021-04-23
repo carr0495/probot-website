@@ -1,6 +1,5 @@
 import React from "react";
 import hero from "../static/images/producthero.png";
-import poster from "../static/images/Poster-01.png";
 
 function Product(props) {
   return (

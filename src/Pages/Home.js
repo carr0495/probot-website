@@ -1,6 +1,4 @@
 import React from "react";
-import logo from "../static/probot/ProbotFullLogo.png";
-import slide1 from "../static/images/slide1.png";
 import slide2 from "../static/images/slide2.png";
 import slide3 from "../static/images/slide3.png";
 import homehero from "../static/images/homehero.svg";
