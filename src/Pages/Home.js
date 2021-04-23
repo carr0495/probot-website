@@ -50,18 +50,18 @@ function Home(props) {
     <div className={classes.root}>
       <Carousel>
         <div className={classes.imgPreview}>
-          <img src={savemoney} />
+          <img src={savemoney} alt="save money" />
           <p className="legend">
             Save money for your buisness through virtual assitants and
             automations
           </p>
         </div>
         <div className={classes.imgPreview}>
-          <img src={slide2} />
+          <img src={slide2} alt="Second Slide" />
           <p className="legend">Fast Reliable Bots</p>
         </div>
         <div className={classes.imgPreview}>
-          <img src={slide3} />
+          <img src={slide3} alt="Third SLide" />
           <p className="legend">
             Automations that easily integrate into your buisness infrastructure
           </p>
@@ -89,13 +89,13 @@ function Home(props) {
             enjoyment at the workplace which helps overall productivity.
           </Typography>
         </div>
-        <img width="500px" src={homehero} />
+        <img width="500px" src={homehero} alt="hero for home" />
       </div>
       <h1>Features</h1>
       <div className={classes.section}>
         <div className={classes.textArea}>
           <div className={classes.features}>
-            <img width="500px" src={features} />
+            <img width="500px" src={features} alt="features hero" />
             <Typography variant="h4" className={classes.text}>
               <ul>
                 <p>RPA Development For Enterprise Buisnesses</p>

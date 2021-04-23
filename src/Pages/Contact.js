@@ -7,6 +7,7 @@ function Contact(props) {
   return (
     <div className="contact">
       <img
+        alt="Contact Hero"
         src={hero}
         style={{
           display: "block",

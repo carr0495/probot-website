@@ -27,6 +27,7 @@ function Quote(props) {
   return (
     <div className={classes.root}>
       <img
+        alt="Quote Hero"
         src={hero}
         style={{
           display: "block",

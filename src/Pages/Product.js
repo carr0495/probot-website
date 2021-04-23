@@ -5,6 +5,7 @@ function Product(props) {
   return (
     <div style={{ marginTop: 5 }}>
       <img
+        alt="Product hero"
         src={hero}
         style={{
           display: "block",
